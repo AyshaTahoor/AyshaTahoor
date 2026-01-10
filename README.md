@@ -37,9 +37,9 @@ I’m a Computer Science engineering student with a growing interest in building
     src="https://my-readme-streak-stats-tau.vercel.app?user=AyshaTahoor&theme=rose_pine&hide_border=true"
     alt="GitHub streak"
     width="85%"
+    style="opacity:0.9;"
   />
 </div>
-
 
 
 <!-- Subtle Snake Animation -->
