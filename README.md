@@ -11,7 +11,7 @@ I’m a Computer Science engineering student with a growing interest in building
   <img 
     src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"
     alt="GitHub contribution snake"
-    width="85%"
+    width="80%"
     style="opacity:0.6;"
   />
 </div>
