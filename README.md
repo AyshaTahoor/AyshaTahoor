@@ -6,10 +6,9 @@ I’m a Computer Science engineering student with a growing interest in building
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/aysha-tahoor-b6868a2b9/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aishathr6104@gmail.com) 
 
 <!-- Snake Game Repo View -->
-
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
+  github_user_name: AyshaTahoor
+  outputs: |
+    dist/github-contribution-grid-snake.svg?color_snake=8892b0&color_dots=1f2937,1f2937,2d3748,4c566a
 
 ### 🛠️ Tech Stack
 
