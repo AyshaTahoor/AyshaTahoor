@@ -10,6 +10,29 @@ I’m a Computer Science engineering student with a growing interest in building
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/aysha-tahoor-b6868a2b9/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aishathr6104@gmail.com) 
 
+
+<h2>📊 Statistics</h2>
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <img
+        src="https://my-git-stats.vercel.app/api?username=AyshaTahoor&show_icons=true&include_all_commits=true&count_private=true&theme=chartreuse-dark"
+        height="200"
+        alt="GitHub Stats"
+      />
+    </td>
+    <td align="center">
+      <img
+        src="https://my-git-stats.vercel.app/api/top-langs/?username=AyshaTahoor&layout=compact&theme=chartreuse-dark"
+        height="200"
+        alt="Top Languages"
+      />
+    </td>
+  </tr>
+</table>
+
+
 <!-- Subtle Snake Animation -->
 
 <div align="center">
