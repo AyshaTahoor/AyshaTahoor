@@ -60,38 +60,67 @@ I enjoy learning by building, contributing to projects, and improving steadily t
 
 <hr style="height:1px;border:none;background:linear-gradient(to right,#1e293b,#fca5a5,#7f1d1d);" />
 
-## 🛠️ Tech Stack
+## 🛠 Tech Stack
 
-### Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-1e293b?style=flat&logo=javascript&logoColor=fca5a5)
-![Python](https://img.shields.io/badge/Python-1e293b?style=flat&logo=python&logoColor=fca5a5)
-![Java](https://img.shields.io/badge/Java-1e293b?style=flat&logo=java&logoColor=fca5a5)
-![SQL](https://img.shields.io/badge/SQL-1e293b?style=flat&logo=mysql&logoColor=fca5a5)
-![HTML5](https://img.shields.io/badge/HTML5-1e293b?style=flat&logo=html5&logoColor=fca5a5)
-![CSS3](https://img.shields.io/badge/CSS3-1e293b?style=flat&logo=css3&logoColor=fca5a5)
+<!-- Languages -->
+<p align="center">
+  <sub><b>Languages</b></sub><br/><br/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="42"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="42"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="42"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="42"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="42"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="42"/>
+</p>
 
-### Frontend
-![React](https://img.shields.io/badge/React-1e293b?style=flat&logo=react&logoColor=fca5a5)
-![Next.js](https://img.shields.io/badge/Next.js-1e293b?style=flat&logo=next.js&logoColor=fca5a5)
-![React Native](https://img.shields.io/badge/React_Native-1e293b?style=flat&logo=react&logoColor=fca5a5)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-1e293b?style=flat&logo=tailwindcss&logoColor=fca5a5)
-![Vite](https://img.shields.io/badge/Vite-1e293b?style=flat&logo=vite&logoColor=fca5a5)
+<br/>
 
-### Backend
-![Node.js](https://img.shields.io/badge/Node.js-1e293b?style=flat&logo=node.js&logoColor=fca5a5)
-![Express.js](https://img.shields.io/badge/Express.js-1e293b?style=flat&logo=express&logoColor=fca5a5)
-![Flask](https://img.shields.io/badge/Flask-1e293b?style=flat&logo=flask&logoColor=fca5a5)
-![FastAPI](https://img.shields.io/badge/FastAPI-1e293b?style=flat&logo=fastapi&logoColor=fca5a5)
+<!-- Frontend -->
+<p align="center">
+  <sub><b>Frontend</b></sub><br/><br/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="42"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="42"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="42" title="React Native"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="42"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" width="42"/>
+</p>
 
-### Databases & Tools
-![MySQL](https://img.shields.io/badge/MySQL-1e293b?style=flat&logo=mysql&logoColor=fca5a5)
-![MongoDB](https://img.shields.io/badge/MongoDB-1e293b?style=flat&logo=mongodb&logoColor=fca5a5)
-![Supabase](https://img.shields.io/badge/Supabase-1e293b?style=flat&logo=supabase&logoColor=fca5a5)
-![Git](https://img.shields.io/badge/Git-1e293b?style=flat&logo=git&logoColor=fca5a5)
+<br/>
 
----
+<!-- Backend -->
+<p align="center">
+  <sub><b>Backend</b></sub><br/><br/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="42"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="42"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="42"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="42"/>
+</p>
 
-<div align="center">
+<br/>
+
+<!-- Databases & Tools -->
+<p align="center">
+  <sub><b>Databases & Tools</b></sub><br/><br/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="42"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" width="42"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="42"/>
+</p>
+
+<br/>
 
 > calm code. consistent growth.
 
