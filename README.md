@@ -1,6 +1,11 @@
 # 💫 About Me:
+<table> <tr>
+    <td width="65%" valign="top">
+      <h2> About Me</h2>
 I’m a Computer Science engineering student with a growing interest in building clean, meaningful, and user-focused digital experiences. My journey revolves around understanding how systems work—from core programming concepts to practical web and backend development.<br><br>I enjoy learning by building, contributing to projects, and steadily improving my skills through consistency rather than rush.<br><br>-🌱 Currently Learning: Web development & backend fundamentals<br><br>-🛠 Working With: C++, Python, HTML, JavaScript, Git<br><br>-🎯 Focus: Writing better code, building real projects, and growing through community and open source
-
+    </td> 
+</tr>
+</table>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/aysha-tahoor-b6868a2b9/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aishathr6104@gmail.com) 
