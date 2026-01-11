@@ -53,13 +53,9 @@ I enjoy learning by building, contributing to projects, and improving steadily t
 </div>
 
 <div align="center">
-  <img 
-    src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"
-    width="70%"
-    style="opacity:0.45;"
-    alt="Contribution Snake"
-  />
+  <img src="https://raw.githubusercontent.com/ProgrammingXBoy/.github/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 </div>
+
 
 <hr style="height:1px;border:none;background:linear-gradient(to right,#1e293b,#fca5a5,#7f1d1d);" />
 
