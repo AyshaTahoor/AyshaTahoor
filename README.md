@@ -14,7 +14,7 @@ I enjoy learning by building, contributing to projects, and improving steadily t
 - 🛠 Working with: C++, Python, HTML, JavaScript, Git  
 - 🎯 Focus: Better code, real projects, and growth through community & open source  
 
-
+<hr style="height:1px;border:none;background:linear-gradient(to right,#1e293b,#fca5a5,#7f1d1d);" />
 
 ## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-1e293b?style=flat&logo=linkedin&logoColor=fca5a5)](https://www.linkedin.com/in/aysha-tahoor-b6868a2b9/)
