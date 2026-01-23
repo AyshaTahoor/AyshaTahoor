@@ -24,7 +24,7 @@ I enjoy learning by building, contributing to projects, and improving steadily t
 
 ## 📊 Statistics
 
-
+<table align="center">
   <tr>
     <td>
       <img
