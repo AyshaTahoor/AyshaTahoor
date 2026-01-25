@@ -102,6 +102,5 @@ I enjoy learning by building, contributing to projects, and improving steadily t
 </tr>
 </table>
 
-<sub>Also working with Flask · FastAPI · Supabase · React Native · Vite</sub>
 > calm code, consistent growth.
 </div>
