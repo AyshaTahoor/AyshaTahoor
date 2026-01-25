@@ -6,7 +6,7 @@
 About Me:
 
 I’m a Computer Science engineering student with a growing interest in building clean, meaningful, and user-focused digital experiences.  
-My journey revolves around understanding how systems work — from core programming concepts to practical web and backend development.
+My journey revolves around understanding how systems work from core programming concepts to practical web and backend development.
 
 I enjoy learning by building, contributing to projects, and improving steadily through consistency rather than rush.
 
