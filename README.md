@@ -10,7 +10,7 @@ My journey revolves around understanding how systems work from core programming 
 
 I enjoy learning by building, contributing to projects, and improving steadily through consistency rather than rush.
 
-- 🌱 Currently learning: Web development & backend fundamentals  
+- 🌱 Currently learning: DSA & backend fundamentals  
 - 🛠 Working with: C++, MERN Stack, HTML, JavaScript  
 - 🎯 Focus: Better code, real projects, and growth through community & open source  
 
