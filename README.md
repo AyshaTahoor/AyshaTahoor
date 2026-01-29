@@ -63,7 +63,7 @@ I enjoy learning by building, contributing to projects, and improving steadily t
 
 <div align="center">
 
-## Tech Stack 
+/*## Tech Stack 
 [![npm](https://img.shields.io/npm/v/github-spray.svg?style=flat-square)](https://www.npmjs.com/package/github-spray)
 [![license](https://img.shields.io/github/license/annihil/github-spray.svg?style=flat-square)]()
 <p align="center">
@@ -100,7 +100,7 @@ I enjoy learning by building, contributing to projects, and improving steadily t
 
 </td>
 </tr>
-</table>
+</table>*/
 
 > calm code, consistent growth.
 </div>
