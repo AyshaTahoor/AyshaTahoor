@@ -11,7 +11,7 @@ My journey revolves around understanding how systems work from core programming 
 I enjoy learning by building, contributing to projects, and improving steadily through consistency rather than rush.
 
 - 🌱 Currently learning: Web development & backend fundamentals  
-- 🛠 Working with: C++, Python, HTML, JavaScript, Git  
+- 🛠 Working with: C++, MERN Stack, HTML, JavaScript  
 - 🎯 Focus: Better code, real projects, and growth through community & open source  
 
 <hr style="height:1px;border:none;background:linear-gradient(to right,#1e293b,#fca5a5,#7f1d1d);" />
