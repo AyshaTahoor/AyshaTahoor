@@ -37,14 +37,6 @@ I enjoy learning by building, contributing to projects, and improving steadily t
     </td>
   </tr>
 </table>
-
-<div align="center">
-  <img
-    src="https://my-readme-streak-stats-tau.vercel.app?user=AyshaTahoor&theme=rose_pine&hide_border=true"
-    width="80%"
-    style="opacity:0.9;"
-    alt="GitHub Streak"
-  />
 </div>
 
 <div align="center">
