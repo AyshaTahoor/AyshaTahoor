@@ -27,11 +27,6 @@ I enjoy learning by building, contributing to projects, and improving steadily t
 <table align = "center">
   <tr>
     <td>
-      <img
-        src="https://my-git-stats.vercel.app/api?username=AyshaTahoor&show_icons=true&include_all_commits=true&count_private=true&theme=rose_pine&hide_border=true"
-        height="180"
-        alt="GitHub Stats"
-      />
     </td>
     <td>
       <img
