@@ -26,17 +26,6 @@ I enjoy learning by building, contributing to projects, and improving steadily t
 ## 📊 Statistics
 
 <table align = "center">
-  <tr>
-    <td>
-    </td>
-    <td>
-      <img
-        src="https://my-git-stats.vercel.app/api/top-langs/?username=AyshaTahoor&layout=compact&theme=rose_pine&hide_border=true"
-        height="180"
-        alt="Top Languages"
-      />
-    </td>
-  </tr>
 </table>
 </div>
 
