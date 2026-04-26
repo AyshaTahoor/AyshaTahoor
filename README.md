@@ -5,7 +5,6 @@
 </div>
 About Me:
 
-App Developer | CSE Student | Building practical solutions<br>
 I’m a Computer Science engineering student with a growing interest in building clean, meaningful, and user-focused digital experiences.  
 My journey revolves around understanding how systems work from core programming concepts to practical web and backend development.
 
